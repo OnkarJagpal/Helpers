@@ -1,4 +1,4 @@
-# Helpers * Utilities
+# Helpers & Utilities
 
 ## Introduction
 
